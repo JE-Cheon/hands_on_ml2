@@ -5,7 +5,7 @@ hands on machine learning study
 
 - [필요 링크](./00_link.md)
 ### Chapter1. 한눈에 보는 머신러닝
-- [1장 내용정리](./01_machine learning.md)
+- [1장 내용정리](./01_machine_learning.md)
 - [1장 코드](./ex1-1.ipynb)
 ### Chapter2. 머신러닝 프로젝트 처음부터 끝까지
 - [2장 내용정리](./02_project.md)
