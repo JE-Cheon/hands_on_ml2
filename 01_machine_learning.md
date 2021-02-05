@@ -21,7 +21,7 @@
 
   3) 프로그램을 테스트 및 론칭할 만큼 충분한 성능 나올 때까지 1,2단계 반복
 
-  ![image-20210131204059496](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210131204059496.png)
+  ![image-20210131204059496](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210131204059496.png)
 
   - 새로운 패턴이 나타날 경우 패턴 입력 필요
 
@@ -29,11 +29,11 @@
 
   - 스팸에 자주 나타나는 패턴 감지 및 학습
 
-  ![image-20210131205548205](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210131205548205.png)
+  ![image-20210131205548205](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210131205548205.png)
 
   - 새로운 패턴이 나타날 경우 스스로 데이터 학습 가능
 
-  ![image-20210131210134874](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210131210134874.png)
+  ![image-20210131210134874](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210131210134874.png)
 
 - 전통적 방식이 복잡하거나 알려진 알고리즘이 없는 문제
 
@@ -44,7 +44,7 @@
   - 머신러닝 알고리즘이 학습한 것 조사
   - 대용량 데이터 분석 시 겉으로 보이지 않는 패턴 발견 가능 (데이터 마이닝)
 
-![image-20210131213746909](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210131213746909.png)
+![image-20210131213746909](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210131213746909.png)
 
 - 머신러닝이 뛰어난 분야
   - 기존 솔루션으로 많은 수동 조정과 규칙이 필요한 문제
@@ -93,11 +93,11 @@
 
 - 분류가 전형적인 지도 학습 작업
 
-![image-20210201140604759](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201140604759.png)
+![image-20210201140604759](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201140604759.png)
 
 - 예측 변수라 부르는 특성을 이용해 타깃 수치 예측(회귀)
 
-![image-20210201141130159](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201141130159.png)
+![image-20210201141130159](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201141130159.png)
 
 - 회귀와 분류의 알고리즘은 서로 이용 가능
 - 로지스틱 회귀: 클래스에 속할 확률 출력
@@ -115,7 +115,7 @@
 
 - 훈련 데이터에 레이블 존재x
 
-![image-20210201141632877](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201141632877.png)
+![image-20210201141632877](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201141632877.png)
 
 - 비지도 학습 알고리즘
   - 군집
@@ -140,7 +140,7 @@
    1. 방문자 사이의 연결고리 찾기
    2. 계층 군집 알고리즘
 
-![image-20210201142654953](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201142654953.png)
+![image-20210201142654953](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201142654953.png)
 
   2. 시각화 알고리즘
 
@@ -148,7 +148,7 @@
               		2. 도식화 가능한 2D or 3D 표현 생성
               		3. 데이터 형태 파악 가능
 
-     ![image-20210201143302892](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201143302892.png)
+     ![image-20210201143302892](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201143302892.png)
 
   3. 차원 축소
 
@@ -158,9 +158,9 @@
 
        		1. 신용카드 거래 감지
               		2. 제조 결함 감지
-              		3. 이상치 제거
+                  		3. 이상치 제거
 
-![image-20210201145115485](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201145115485.png)
+![image-20210201145115485](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201145115485.png)
 
 5. 특이치 탐지 (이상치 탐지와 유사)
      1. 완전히 비어있는 훈련 세트 준비
@@ -179,7 +179,7 @@
   - 예시: 구글 포토 호스팅 서비스
 - 지도학습(DBN) + 비지도 학습(RBM)
 
-![image-20210201145746726](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201145746726.png)
+![image-20210201145746726](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201145746726.png)
 
 #### 4.강화학습
 
@@ -187,7 +187,7 @@
 - 환경을 관찰해서 행동을 실행하고 그 결과로 보상 또는 벌점 부여
 - 가장 큰 보상을 얻기 위한 정책을 학습
 
-![image-20210201150226660](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201150226660.png)
+![image-20210201150226660](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201150226660.png)
 
 
 
@@ -215,13 +215,13 @@
 - 데이터를 한 개씩 순차적 또는 **미니배치**라 부르는 작은 묶음 단위로 주입하여 시스템 훈련
 - 데이터가 도착하는 대로 학습 가능
 
-![image-20210201152846632](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201152846632.png)
+![image-20210201152846632](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201152846632.png)
 
 - 연속적으로 데이터를 받고 빠른 변화에 적응해야 하는 시스템에 적합
 - 컴퓨팅 자원이 제한된 경우에도 좋은 선택
 - 컴퓨터 한 대의 메인 메무리에 들어갈 수 없는 아주 큰 데이터셋을 학습하는 시스템에 용이
 
-![image-20210201162015957](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201162015957.png)
+![image-20210201162015957](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201162015957.png)
 
 - 학습률: 변화하는 데이터에 얼마나 빠르게 적응하는지
   - 학습률 high: 데이터에 빠르게 적응하지만 예전 데이터를 잊어버림
@@ -243,13 +243,13 @@
 1. 시스템이 훈련 샘플을 기억 (학습)
 2. 유사도 측정 -> 새로운 데이터와 학습한 샘플을 비교 및 일반화
 
-![image-20210201170326097](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201170326097.png)
+![image-20210201170326097](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201170326097.png)
 
 #### 2.모델 기반 학습
 
 - 샘플들의 모델 생성 후 예측
 
-![image-20210201170449170](C:\Users\sma05\AppData\Roaming\Typora\typora-user-images\image-20210201170449170.png)
+![image-20210201170449170](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\01_machine_learning\image-20210201170449170.png)
 
 - 무작위성을 가지지만 규칙성을 가지는 모델
 - 선형함수로 만듦(모델선택)
