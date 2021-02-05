@@ -47,7 +47,7 @@
 
 - 목적 파악: 문제를 어떻게 구성할지, 어떤 알고리즘을 선택할지, 모델 평가에 어떤 성능 지표를 사용할지, 모델 튜닝을 위해 얼마나 노력할지
 
-![image-20210201212253613](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210201212253613.png)
+![image-20210205171016720](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210205171016720.png)
 
 - 파이프라인: 데이터 처리 컴포넌트들이 연속되어 있는 것을 파이프라인이라고 함
   - 컴포넌트들은 일반적으로 비동기적으로 동작
@@ -63,12 +63,12 @@
 
 - 회귀 문제의 전형적인 성능 지표: 평균 제곱근 오차(RMSE)
 
-![image-20210202012546681](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210202012546681.png)
+![image-20210205171035377](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210205171035377.png)
 
 - 경우에 따라 다른 함수 사용
 - 이상치가 많을 경우 평균 절대 오차(MAE) 사용
 
-![image-20210202015802372](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210202015802372.png)
+![image-20210205171048602](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210205171048602.png)
 
 - 벡터와 타깃값의 벡터 사이의 거리를 재는 방법(norm)
   - RMSE: 유클리디안 norm
@@ -959,7 +959,7 @@ for mean_score, params in zip(cvres["mean_test_score"], cvres["params"]):
   - 전체 전처리 파이프라인과 예측 파이프라인이 포함된 훈련된 사이킷런 모델을 저장
   - `predict()` 메서드를 호출하여 예측을 만듦
 
-  ![image-20210204004850180](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210204004850180.png)
+  ![image-20210205171136182](C:\Users\sma05\Desktop\machine learning study\hands-on machine learning\02_project\image-20210205171136182.png)
 
 - 구글 클라우드 AI 플랫폼과 같은 클라우드에 배포
   - 모델 저장 및 구글 클라우드 스토리지에 업로드
