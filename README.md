@@ -12,7 +12,7 @@ hands on machine learning study
 - [2장 코드](./ex2.ipynb)
 ### Chapter3. 분류
 - [3장 내용정리](./03_classification.md)
-- [3장 코드](./
+- [3장 코드](./ex3.ipynb)
 ### Chapter4. 모델 훈련
 ### Chapter5. 서포트 백터 머신
 ### Chapter6. 결정 트리
