@@ -14,6 +14,8 @@ hands on machine learning study
 - [3장 내용정리](./03_classification.md)
 - [3장 코드](./ex3.ipynb)
 ### Chapter4. 모델 훈련
+- [4장 내용정리](./04_training_linear_model.md)
+- [4장 코드](./ex4.ipynb)
 ### Chapter5. 서포트 백터 머신
 ### Chapter6. 결정 트리
 ### Chapter7. 앙상블 학습과 랜덤 포레스트
