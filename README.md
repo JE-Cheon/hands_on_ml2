@@ -19,7 +19,7 @@ hands on machine learning study
 ### Chapter5. 서포트 백터 머신
 ### Chapter6. 결정 트리
 - [6장 내용정리](./06_decision_trees.md)
-- [6장 코드](./
+- [6장 코드](./ex6.ipynb)
 ### Chapter7. 앙상블 학습과 랜덤 포레스트
 ### Chapter8. 차원 축소
 ### Chapter9. 비지도 학습
