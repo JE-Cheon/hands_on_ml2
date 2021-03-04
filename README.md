@@ -21,6 +21,8 @@ hands on machine learning study
 - [6장 내용정리](./06_decision_trees.md)
 - [6장 코드](./ex6.ipynb)
 ### Chapter7. 앙상블 학습과 랜덤 포레스트
+- [7장 내용정리](./07_ensemble_and_random_forests.md)
+- [7장 코드](./ex7.ipynb)
 ### Chapter8. 차원 축소
 ### Chapter9. 비지도 학습
 ---
